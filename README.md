@@ -3,7 +3,7 @@ Frontend - React
 Backend - nodejs, express
 Database - mongoDB
 Backend deployed - https://tiktok-backends.herokuapp.com/v2/posts {heroku}
-Frontend on Firebase hosting
+Web App hosted on - https://tiktok-clone-9b897.web.app/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
